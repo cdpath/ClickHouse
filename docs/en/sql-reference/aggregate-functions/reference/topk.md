@@ -24,7 +24,7 @@ If the parameter is omitted, default value 10 is used.
 
 **Arguments**
 
--   `x` – The value to calculate frequency.
+-   `column` – The value to calculate frequency.
 
 **Example**
 
